@@ -1,2 +1,2 @@
 #!/bin/bash
-less /atc/passwd
+cat passwd
