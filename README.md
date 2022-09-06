@@ -1,1 +1,1 @@
-pwd
+My new project
