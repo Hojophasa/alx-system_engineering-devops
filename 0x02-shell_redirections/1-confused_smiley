@@ -1,2 +1,2 @@
 #!/bin/bas
-$ <command>; if [["$?" = O ]]; then echo ':)'; else echo ':('; fi
+echo "\"(Ôo)'"
